@@ -41,5 +41,12 @@
         android:id="@+id/textResultado"
         android:gravity="center"
         android:text="R$"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="50dp"
+        android:id="@+id/nome"
+        android:gravity="center"
+        android:text="Pedro Henrique Chaves da Rocha Nº21"/>
 
 </LinearLayout>
